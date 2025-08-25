@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Giovanna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge" />
 
 <p>Currently working at Renault Group<br />
-Software Engineering Student (4th Semester)</p>
+Software Engineering Student (5th Semester)</p>
 
 ## 🚀 Skills
 
